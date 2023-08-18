@@ -1,35 +1,71 @@
+:root {
+  --primary-text-color: #757575;
+  --title-text-color: #212121;
+  --accent-color: #2196f3;
+
+}
 body {
   background: #fff;
   color: #212121;
 }
+
+/* Логотип */
 .logo {
-  color: #2196f3;
+  color: var(--accent-color);
 }
 .studio {
   color: #000000;
 }
+
 .list {
   list-style: none;
 }
+/* Хедер */
 .header {
   background: #fff;
 }
+
+/* Герой */
 .hero {
   background-color: #2f303a;
 }
 .main-content {
   background: #fff;
 }
+
+.text {
+  color: var(--primary-text-color)
+}
+
+/* Наша команда */
 .team {
   background-color: #f5f4fa;
 }
+/* Футер */
 .footer {
   background-color: #2f303a;
 }
 
 /* Навигация */
-.stile-nav a {
+.stile-nav .link {
   color: #212121;
+}
+
+.site-nav .link:focus, 
+.site-nav .link:hover {
+  color: var(--accent-color);
+}
+
+/* Заголовки секцій */
+.hero-title {
+  color: #FFFFFF;
+}
+.section-title {
+  color: var(--title-text-color);
+}
+/* Заголовки */
+.title {
+  color: var(--title-text-color);
 }
 /* фони темный background: #2F303A;*/
 /* серый фон #F5F4FA */
