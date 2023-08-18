@@ -1,3 +1,44 @@
+body {
+    background: #FFF;
+    color: #212121;
+}
+.logo {
+    color: #2196F3;
+}
+.studio {
+    color: #000000;
+}
+.list {
+    list-style: none;
+}
+.header {
+    background: #FFF;
+}
+.hero {
+    background-color: #2F303A;
+}
 .main-content {
     background: #FFF;
 }
+.team {
+    background-color: #F5F4FA;
+
+}
+.footer {
+    background-color: #2F303A;
+}
+
+/* Навигация */
+.stile-nav a {
+    color: #212121;
+}
+/* фони темный background: #2F303A;*/ 
+/* серый фон #F5F4FA */
+
+
+/* первичный цвет текста #212121 */
+/* вторичный цвет текста #757575 */
+/* цвет акцентов и для активных ссылок #2196F3 */
+/* черный цвет в лого #000000 */
+/* белый цвет заголовок героя адрес в футере #FFFFFF */
+/* цвет контактов в футере rgba(255, 255, 255, 0.6) */
