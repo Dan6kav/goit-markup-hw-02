@@ -1,40 +1,38 @@
 body {
-    background: #FFF;
-    color: #212121;
+  background: #fff;
+  color: #212121;
 }
 .logo {
-    color: #2196F3;
+  color: #2196f3;
 }
 .studio {
-    color: #000000;
+  color: #000000;
 }
 .list {
-    list-style: none;
+  list-style: none;
 }
 .header {
-    background: #FFF;
+  background: #fff;
 }
 .hero {
-    background-color: #2F303A;
+  background-color: #2f303a;
 }
 .main-content {
-    background: #FFF;
+  background: #fff;
 }
 .team {
-    background-color: #F5F4FA;
-
+  background-color: #f5f4fa;
 }
 .footer {
-    background-color: #2F303A;
+  background-color: #2f303a;
 }
 
 /* Навигация */
 .stile-nav a {
-    color: #212121;
+  color: #212121;
 }
-/* фони темный background: #2F303A;*/ 
+/* фони темный background: #2F303A;*/
 /* серый фон #F5F4FA */
-
 
 /* первичный цвет текста #212121 */
 /* вторичный цвет текста #757575 */
